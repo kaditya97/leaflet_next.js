@@ -29,12 +29,12 @@ class SearchBox extends MapControl {
 export default class MyMap extends Component {
   state = {
     center: {
-      lat: 31.698956,
-      lng: 76.732407,
+      lat: 28.3949,
+      lng: 84.1240,
     },
     marker: {
-      lat: 31.698956,
-      lng: 76.732407,
+      lat: 28.3949,
+      lng: 84.1240,
     },
     zoom: 13,
     draggable: true,
